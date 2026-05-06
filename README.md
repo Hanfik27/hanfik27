@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-### 👨‍💻 Developer · Builder · Lifelong Learner
+### Developer · Builder · Lifelong Learner
 
 [![GitHub followers](https://img.shields.io/github/followers/Hanfik27?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github)](https://github.com/Hanfik27?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Hanfik27&style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/Hanfik27)
@@ -18,22 +18,22 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const hanfik = {
-  username:   "Hanfik27",
-  location:   "Indonesia 🇮🇩",
-  status:     "Welcome to No Life 💀",
-  passion:    ["Building apps", "Learning new tech", "Problem solving"],
-  currentFocus: "Web & Desktop Application Development",
-  funFact:    "I code more than I sleep... probably 😅"
+  username      :   "Hanfik27",
+  location      :   "Indonesia 🇮🇩",
+  role          :   "FullTuru Dev",
+  passion       :   ["Building apps", "Learning new tech", "Problem solving"],
+  currentFocus  :   "Website Development",
+  funFact       :   "I often sleep instead of coding, and play online games too often"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,15 +54,7 @@ const hanfik = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hanfik27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanfik27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
+## GitHub Stats
 
 <div align="center">
 
@@ -72,18 +64,7 @@ const hanfik = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚗 [Aplikasi Order Supir](https://github.com/Hanfik27/Aplikasi-Order-Supir) | Driver order management app | C++ |
-| 🏪 [Point of Sale](https://github.com/Hanfik27/Point-Of-Sale) | POS system for retail | HTML, PHP |
-| 📚 [Tugas Perpustakaan](https://github.com/Hanfik27/Tugas-Praktikum-Perpustakaan) | Library management system | C++ |
-| 🌐 [Portofolio](https://github.com/Hanfik27/portofolio) | Personal portfolio website | CSS, HTML |
-
----
-
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -95,7 +76,7 @@ const hanfik = {
 
 <div align="center">
 
-### 💬 Connect With Me
+### Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hanfik27-181717?style=for-the-badge&logo=github)](https://github.com/Hanfik27)
 
