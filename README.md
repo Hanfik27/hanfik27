@@ -1,10 +1,10 @@
 <div align="center">
 
-```
+```text
 ██╗  ██╗ █████╗ ███╗   ██╗███████╗██╗██╗  ██╗
 ██║  ██║██╔══██╗████╗  ██║██╔════╝██║██║ ██╔╝
-███████║███████║██╔██╗ ██║█████╗  ██║█████╔╝ 
-██╔══██║██╔══██║██║╚██╗██║██╔══╝  ██║██╔═██╗ 
+███████║███████║██╔██╗ ██║█████╗  ██║█████╔╝
+██╔══██║██╔══██║██║╚██╗██║██╔══╝  ██║██╔═██╗
 ██║  ██║██║  ██║██║ ╚████║██║     ██║██║  ██╗
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
@@ -12,32 +12,37 @@
 ### Developer · Builder · Lifelong Learner
 
 [![GitHub followers](https://img.shields.io/github/followers/Hanfik27?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github)](https://github.com/Hanfik27?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hanfik27&style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/Hanfik27)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hanfik27&style=for-the-badge&color=0d1117&labelColor=161b22)](https://komarev.com/ghpvc/?username=Hanfik27)
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
 ```javascript
 const hanfik = {
-  username      :   "Hanfik27",
-  location      :   "Indonesia 🇮🇩",
-  role          :   "FullTuru Dev",
-  passion       :   ["Building apps", "Learning new tech", "Problem solving"],
-  currentFocus  :   "Website Development",
-  funFact       :   "I often sleep instead of coding, and play online games too often"
+  username      : "Hanfik27",
+  location      : "Indonesia 🇮🇩",
+  role          : "FullTuru Dev",
+  passion       : [
+    "Building apps",
+    "Learning new tech",
+    "Problem solving"
+  ],
+  currentFocus  : "Website Development",
+  funFact       : "I often sleep instead of coding, and play online games too often"
 };
 ```
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
 ### Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +50,7 @@ const hanfik = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -54,7 +60,7 @@ const hanfik = {
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -64,7 +70,7 @@ const hanfik = {
 
 ---
 
-## Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -76,16 +82,29 @@ const hanfik = {
 
 <div align="center">
 
-### Connect With Me
+# Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hanfik27-181717?style=for-the-badge&logo=github)](https://github.com/Hanfik27)
+[![Gmail](https://img.shields.io/badge/Gmail-hanfik27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanfik27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raihan%20Syaputra%20Fikri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihansyaputrafikri/)
+[![Instagram](https://img.shields.io/badge/Instagram-@_hanfik-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hanfik/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281217043425?text=Halo%20Hanfik%20%F0%9F%91%8B%0A%0APerkenalkan%20saya%20%5BNama%5D.%0ASaya%20menemukan%20profil%20GitHub%20Anda%20dan%20tertarik%20dengan%20project%20yang%20Anda%20buat.%0A%0ASaya%20ingin%20berdiskusi%20mengenai%20%5Bkeperluan%5D.%0A%0ATerima%20kasih.)
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### Feel free to contact me!
 
-![Wave](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png)
+Whether you have a project idea, collaboration opportunity, or just want to say hello, don't hesitate to reach out. I'm always happy to connect with fellow developers and tech enthusiasts.
 
-**Thanks for visiting my profile!** ⭐ Star some repos if you find them useful!
+---
+
+> *"Code is like humor. When you have to explain it, it's bad."*  
+> **— Cory House**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="70">
+
+### ⭐ Thanks for visiting my profile!
+
+If you enjoy my projects, consider giving them a **Star**.  
+It motivates me to keep building and sharing more awesome things! 🚀
 
 </div>
